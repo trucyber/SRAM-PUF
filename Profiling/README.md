@@ -12,4 +12,4 @@ A PUF consists of two unique components (1) a challenge, and (2) a response. In 
 
 ## Compile and Run
 make -f Makefile \
-sudo ./getStringBit
+sudo ./getStrongBit
