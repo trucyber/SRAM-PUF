@@ -38,4 +38,4 @@ The authentication phase ensures the authenticity of requests and data flow inte
     </p>
 </div>
 
-Detailed information about the SPAI protocol can be found in the paper **Achieving Sensor Identification and Data Flow Integrity in Critical Cyber-Physical Infrastructures**
+Detailed information about the SPAI protocol can be found in the paper [Achieving Sensor Identification and Data Flow Integrity in Critical Cyber-Physical Infrastructures](https://ieeexplore.ieee.org/abstract/document/9302937)
